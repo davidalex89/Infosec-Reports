@@ -19,6 +19,7 @@
     + [Verizon](#verizon)
     + [Wombat/Proofpoint](#wombat-proofpoint)
 
+
 ### Carbon Black
 
 [Carbon Black 2017 Global Threat Report](https://dsimg.ubm-us.net/envelope/394083/544343/Carbon_Black_2017_Threat_Report-3.pdf)
@@ -276,6 +277,8 @@
 [Wombat/Proofpoint 2018 State of the Phish](https://info.wombatsecurity.com/hubfs/2018%20State%20of%20the%20Phish/Wombat-StateofPhish2018.pdf)
 
 [Wombat/Proofpoint 2019 State of the Phish](https://info.wombatsecurity.com/hubfs/Wombat_Proofpoint_2019%20State%20of%20the%20Phish%20Report_Final.pdf)
+
+## Additional
 
 [IBM 2019 X-Force Threat Intelligence](https://www.securindex.com/downloads/8b9f94c46a70c60b229b04609c07acff.pdf)
 
