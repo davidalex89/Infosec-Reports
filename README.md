@@ -1,6 +1,6 @@
 # Catalogue of Historical Infosec Reports/Articles
 
-- [Catalogue of Historical Infosec Reports/Articles](#catalogue-of-historical-infosec-reports-articles)
+- [Table of Contents](#catalogue-of-historical-infosec-reports-articles)
     + [Carbon Black](#carbon-black)
     + [Cisco](#cisco)
     + [Crowdstrike](#crowdstrike)
