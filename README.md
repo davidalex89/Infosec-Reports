@@ -235,7 +235,7 @@
 
 [Verizon 2019 DBIR Report](https://www.key4biz.it/wp-content/uploads/2019/05/2019-data-breach-investigations-report.pdf)
 
-### Wombat/Proofpoint
+### Wombat-Proofpoint
 
 [Proofpoint 2015 Human Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/pp-human-factor-2015_0.pdf)
 
