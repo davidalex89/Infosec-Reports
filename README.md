@@ -1,4 +1,5 @@
 # Catalogue of Historical Infosec Reports/Articles
+*Note: These are publicly available reports which links to their respective authors. You may need to sign up to access them.**
 
 - [**Table of Contents**](#catalogue-of-historical-infosec-reports-articles)
     + [Carbon Black](#carbon-black)
@@ -94,12 +95,6 @@
 [FFIEC 2018 Annual Report](https://www.ffiec.gov/PDF/annrpt18.pdf)
 
 ### FireEye
-
-[FireEye 2011 M-Trends Report](https://app.cdn.lookbookhq.com/lbhq-production/10427/content/original/505f30de-73bd-4293-b8eb-883ab7f76fcd/rpt-M-Trends-2011.pdf)
-
-[FireEye 2012 M-Trends Report](https://app.cdn.lookbookhq.com/lbhq-production/10427/content/original/4c4f469b-8ba8-4f51-91d8-a0af2a530807/rpt-M-Trends-2012.pdf)
-
-[FireEye 2013 M-Trends Report](https://app.cdn.lookbookhq.com/lbhq-production/10427/content/original/ec24c431-c0de-4d34-a5ef-d738be515a63/rpt-M-Trends-2013.pdf)
 
 [FireEye 2014 M-Trends Report](https://www2.fireeye.com/rs/848-DID-242/images/fireeye-m-trends-report-2014.pdf)
 
@@ -198,8 +193,6 @@
 [NTT 2019 Global Threat Ingelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/2019-gtir/2019_gtir_report_2019_uea_v2.pdf)
 
 ### SANS
-
-[SANS 2015 Security Awareness Report](http://pikitdigital.net/material/interes/SANS_Security_Awareness_Report_2015.pdf)
 
 [SANS 2016 Security Awareness Report](https://www.sans.org/sites/default/files/2017-12/STH-SecurityAwarenessReport-2016.pdf)
 
