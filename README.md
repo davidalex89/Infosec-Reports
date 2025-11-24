@@ -48,6 +48,17 @@
 
 [Crowdstrike 2019 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2019GlobalThreatReport.pdf)
 
+[Crowdstrike 2022 Global Threat Report](https://irp.cdn-website.com/5d9b1ea1/files/uploaded/Report2022GTR.pdf)
+
+[Crowdstrike 2023 Global Threat Report](https://www.crowdstrike.com/wp-content/uploads/2023/05/CrowdStrike2023GlobalThreatReport.pdf)
+
+[Crowdstrike 2023 Global Threat Report - Executive Summary](https://www.crowdstrike.com/wp-content/uploads/2023/02/2023-Global-Threat-Report-Executive-Summary.pdf)
+
+[Crowdstrike 2024 Global Threat Report](https://cyberpeople.tech/reports/GlobalThreatReport2024.pdf) 
+
+[Crowdstrike 2025 Global Threat Report](https://www.securityweek.com/wp-content/uploads/2025/02/CrowdStrikeGlobalThreatReport2025.pdf)
+
+
 ### Cylance
 
 [Cylance 2017 Threat Report](https://www.cylance.com/content/dam/cylance/pdfs/reports/CylanceThreatReport2017.pdf)
@@ -92,7 +103,20 @@
 
 [FFIEC 2017 Annual Report](https://www.ffiec.gov/PDF/annrpt17.pdf)
 
-[FFIEC 2018 Annual Report](https://www.ffiec.gov/PDF/annrpt18.pdf)
+[FFIEC 2018 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt18.pdf)
+
+[FFIEC 2019 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt19.pdf)
+
+[FFIEC 2020 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt20.pdf)
+
+[FFIEC 2021 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt21.pdf)
+
+[FFIEC 2022 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt22.pdf)
+
+[FFIEC 2023 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt23.pdf)
+
+[FFIEC 2024 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt24.pdf)
+
 
 ### FireEye
 
@@ -227,6 +251,18 @@
 [Verizon 2018 DBIR Report](https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf)
 
 [Verizon 2019 DBIR Report](https://www.key4biz.it/wp-content/uploads/2019/05/2019-data-breach-investigations-report.pdf)
+
+[Verizon 2020 DBIR Report](https://www.verizon.com/business/en-gb/resources/reports/2020-data-breach-investigations-report.pdf)
+
+[Verizon 2021 DBIR Report - Executive Summary](https://www.verizon.com/business/resources/T261/reports/2021-dbir-executive-brief.pdf)
+
+[Verizon 2022 DBIR Report](https://complexdiscovery.com/wp-content/uploads/2022/06/2022-Data-Breach-Investigations-Report-DBIR.pdf)
+
+[Verizon 2023 DBIR Report](https://www.verizon.com/business/resources/Tbd7/reports/2023-data-breach-investigations-report-dbir.pdf)
+
+[Verizon 2024 DBIR Report](https://www.verizon.com/business/resources/T387/reports/2024-dbir-data-breach-investigations-report.pdf)
+
+
 
 ### Wombat-Proofpoint
 
