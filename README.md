@@ -293,9 +293,9 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 ## Proofpoint
 
-[Proofpoint 2015 Human Factor Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/pp-human-factor-2015_0.pdf)
+[Proofpoint 2015 Human Factor Report](reports/proofpoint/proofpoint-human-factor-report-2015.pdf)
 
-[Proofpoint 2015 Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/proofpoint-threat-report-june-2015.pdf)
+[Proofpoint 2015 Threat Report](reports/proofpoint/proofpoint-threat-report-2015.pdf)
 
 [Proofpoint 2016 Human Factor Report](https://www.proofpoint.com/sites/default/files/human-factor-report-2016.pdf)
 
@@ -353,9 +353,17 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 ## Sophos
 
-[Sophos 2019 Threat Report](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-2019-threat-report.pdf)
+[Sophos 2019 Threat Report](reports/sophos/sophos-threat-report-2019.pdf)
 
-[Sophos 2020 Threat Report](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)
+[Sophos 2020 Threat Report](reports/sophos/sophos-threat-report-2020.pdf)
+
+[Sophos 2021 Threat Report](reports/sophos/sophos-threat-report-2021.pdf)
+
+[Sophos 2022 Threat Report](reports/sophos/sophos-threat-report-2022.pdf)
+
+[Sophos 2023 Threat Report](reports/sophos/sophos-threat-report-2023.pdf)
+
+[Sophos 2024 Threat Report](reports/sophos/sophos-threat-report-2024.pdf)
 
 ---
 
