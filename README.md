@@ -361,38 +361,40 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 ## Verizon
 
-*The Verizon Data Breach Investigations Report (DBIR) is one of the most widely-cited annual reports in the industry.*
+*The Verizon Data Breach Investigations Report (DBIR) is one of the most widely-cited annual reports in the industry. Full archive hosted here — 2008 through 2025.*
 
-[Verizon 2009 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/2009_databreach_rp.pdf)
+[Verizon 2008 DBIR](reports/dbir/2008-data-breach-investigations-report.pdf)
 
-[Verizon 2010 DBIR](https://www.wired.com/images_blogs/threatlevel/2010/07/2010-Verizon-Data-Breach-Investigations-Report.pdf)
+[Verizon 2009 DBIR](reports/dbir/2009-data-breach-investigations-report.pdf)
 
-[Verizon 2011 DBIR](https://www.wired.com/images_blogs/threatlevel/2011/04/Verizon-2011-DBIR_04-13-11.pdf)
+[Verizon 2010 DBIR](reports/dbir/2010-data-breach-investigations-report.pdf)
 
-[Verizon 2012 DBIR](https://www.wired.com/images_blogs/threatlevel/2012/03/Verizon-Data-Breach-Report-2012.pdf)
+[Verizon 2011 DBIR](reports/dbir/2011-data-breach-investigations-report.pdf)
 
-[Verizon 2013 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigations-report-2013.pdf)
+[Verizon 2012 DBIR](reports/dbir/2012-data-breach-investigations-report.pdf)
 
-[Verizon 2014 DBIR](https://webfiles.dti.delaware.gov/pdfs/rp_Verizon-DBIR-2014_en_xg.pdf)
+[Verizon 2013 DBIR](reports/dbir/2013-data-breach-investigations-report.pdf)
 
-[Verizon 2015 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigation-report_2015.pdf)
+[Verizon 2014 DBIR](reports/dbir/2014-data-breach-investigations-report.pdf)
 
-[Verizon 2016 DBIR](https://enterprise.verizon.com/resources/reports/DBIR_2016_Report.pdf)
+[Verizon 2015 DBIR](reports/dbir/2015-data-breach-investigations-report.pdf)
 
-[Verizon 2017 DBIR](https://www.ictsecuritymagazine.com/wp-content/uploads/2017-Data-Breach-Investigations-Report.pdf)
+[Verizon 2016 DBIR](reports/dbir/2016-data-breach-investigations-report.pdf)
 
-[Verizon 2018 DBIR](https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf)
+[Verizon 2017 DBIR](reports/dbir/2017-data-breach-investigations-report.pdf)
 
-[Verizon 2019 DBIR](https://www.key4biz.it/wp-content/uploads/2019/05/2019-data-breach-investigations-report.pdf)
+[Verizon 2018 DBIR](reports/dbir/2018-data-breach-investigations-report.pdf)
 
-[Verizon 2020 DBIR](https://www.verizon.com/business/en-gb/resources/reports/2020-data-breach-investigations-report.pdf)
+[Verizon 2019 DBIR](reports/dbir/2019-data-breach-investigations-report.pdf)
 
-[Verizon 2021 DBIR — Executive Summary](https://www.verizon.com/business/resources/T261/reports/2021-dbir-executive-brief.pdf)
+[Verizon 2020 DBIR](reports/dbir/2020-data-breach-investigations-report.pdf)
 
-[Verizon 2022 DBIR](https://complexdiscovery.com/wp-content/uploads/2022/06/2022-Data-Breach-Investigations-Report-DBIR.pdf)
+[Verizon 2021 DBIR](reports/dbir/2021-data-breach-investigations-report.pdf)
 
-[Verizon 2023 DBIR](https://www.verizon.com/business/resources/Tbd7/reports/2023-data-breach-investigations-report-dbir.pdf)
+[Verizon 2022 DBIR](reports/dbir/2022-data-breach-investigations-report-dbir.pdf)
 
-[Verizon 2024 DBIR](https://www.verizon.com/business/resources/T387/reports/2024-dbir-data-breach-investigations-report.pdf)
+[Verizon 2023 DBIR](reports/dbir/2023-data-breach-investigations-report-dbir.pdf)
 
-[Verizon 2025 DBIR](https://www.verizon.com/business/resources/T4c3/reports/2025-dbir-data-breach-investigations-report.pdf)
+[Verizon 2024 DBIR](reports/dbir/2024-dbir-data-breach-investigations-report.pdf)
+
+[Verizon 2025 DBIR](reports/dbir/2025-dbir-data-breach-investigations-report.pdf)
