@@ -321,49 +321,83 @@ NIST/ITL Cybersecurity (and Privacy) Program Annual Reports — published by NIS
 
 ## Proofpoint
 
-[Proofpoint 2015 Human Factor Report](reports/proofpoint/proofpoint-human-factor-report-2015.pdf)
+### Human Factor
 
-[Proofpoint 2015 Threat Report](reports/proofpoint/proofpoint-threat-report-2015.pdf)
+Annual report on how threat actors exploit people — covers attack techniques, very attacked people (VAPs), BEC, and emerging threats. Previously published by Wombat Security (acquired by Proofpoint in 2018).
 
-[Proofpoint 2016 Human Factor Report](https://www.proofpoint.com/sites/default/files/human-factor-report-2016.pdf)
+[Proofpoint Human Factor 2015](reports/proofpoint/human-factor/proofpoint-human-factor-2015.pdf)
 
-[Proofpoint 2017 Email Fraud Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-email-fraud-yir-180212.pdf)
+[Proofpoint Human Factor 2016](reports/proofpoint/human-factor/proofpoint-human-factor-2016.pdf)
 
-[Proofpoint 2017 Human Factor Report](https://www.proofpoint.com/sites/default/files/pfpt-en-uk-human-factor-report-2017.pdf)
+[Proofpoint Human Factor 2017](reports/proofpoint/human-factor/proofpoint-human-factor-2017.pdf)
 
-[Proofpoint 2018 Human Factor Report](https://cdw-prod.adobecqms.net/content/dam/cdw/on-domain-cdw/brands/proofpoint/proofpoint-the-human-factor-report-2018.pdf)
+[Proofpoint Human Factor 2018](https://www.proofpoint.com/us/resources/threat-reports/human-factor-2018) *(registration required)*
 
-[Proofpoint 2019 Domain Fraud Report](https://www.proofpoint.com/sites/default/files/gtd-pfpt-us-wp-domain-fraud-report-2019.pdf)
+[Proofpoint Human Factor 2019](reports/proofpoint/human-factor/proofpoint-human-factor-2019.pdf)
 
-[Proofpoint 2019 Human Factor Report](https://www.proofpoint.com/sites/default/files/gtd-pfpt-us-tr-human-factor-2019.pdf)
+[Proofpoint Human Factor 2020](https://www.proofpoint.com/us/resources/threat-reports/human-factor) *(registration required)*
 
-[Proofpoint Q1 2017 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q117-threat-report.pdf)
+[Proofpoint Human Factor 2021](https://go.proofpoint.com/2021-Human-Factor-Report.html) *(registration required)*
 
-[Proofpoint Q1 2018 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q118-quarterly-threat-report.pdf)
+[Proofpoint Human Factor 2022](reports/proofpoint/human-factor/proofpoint-human-factor-2022.pdf)
 
-[Proofpoint Q1 2019 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q119-quarterly-threat-report-0528.pdf)
+[Proofpoint Human Factor 2023](reports/proofpoint/human-factor/proofpoint-human-factor-2023.pdf)
 
-[Proofpoint Q2 2017 Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/us-tr-q217-threat-report.pdf)
+[Proofpoint Human Factor 2025 — Vol. 1: Social Engineering](https://www.proofpoint.com/us/resources/threat-reports/human-factor-social-engineering) *(registration required)*
 
-[Proofpoint Q2 2018 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q218-quarterly-threat-report.pdf)
+---
 
-[Proofpoint Q3 2017 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q317-threat-report_1.pdf)
+### State of the Phish
 
-[Proofpoint Q3 2018 Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/pfpt-us-tr-q318-quarterly-threat-report.pdf)
+Annual phishing awareness and end-user behavior report. Published as "Wombat State of the Phish" through 2019, rebranded to "Proofpoint State of the Phish" from 2020 onward.
 
-[Proofpoint Q4 2017 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q417-threat-report-180117.pdf)
+[Proofpoint State of the Phish 2016](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2016.pdf)
 
-[Proofpoint Q4 2018 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q418-quarterly-threat-report.pdf)
+[Proofpoint State of the Phish 2017](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
 
-[Proofpoint 2016 State of the Phish](https://www.afsoftware.fr/susi/download/doc_susi/AFS%20-%20Wombat%20State%20of%20Phishing%202016.pdf)
+[Proofpoint State of the Phish 2018](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
 
-[Proofpoint 2017 State of the Phish](http://resources.idgenterprise.com/original/AST-0176569_Wombat-StateofPhish2017.pdf)
+[Proofpoint State of the Phish 2019](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
 
-[Proofpoint 2018 State of the Phish](https://info.wombatsecurity.com/hubfs/2018%20State%20of%20the%20Phish/Wombat-StateofPhish2018.pdf)
+[Proofpoint State of the Phish 2020](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2020.pdf)
 
-[Proofpoint 2019 State of the Phish](https://info.wombatsecurity.com/hubfs/Wombat_Proofpoint_2019%20State%20of%20the%20Phish%20Report_Final.pdf)
+[Proofpoint State of the Phish 2021](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2021.pdf)
 
-[Proofpoint 2024 State of the Phish](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf)
+[Proofpoint State of the Phish 2022](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2022.pdf)
+
+[Proofpoint State of the Phish 2023](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2023.pdf)
+
+[Proofpoint State of the Phish 2024](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2024.pdf)
+
+---
+
+### Quarterly Threat Reports
+
+[Proofpoint Threat Report 2015](reports/proofpoint/threat-report/proofpoint-threat-report-2015.pdf)
+
+[Proofpoint Threat Report Q1 2017](reports/proofpoint/threat-report/proofpoint-threat-report-q1-2017.pdf)
+
+[Proofpoint Threat Report Q3 2017](reports/proofpoint/threat-report/proofpoint-threat-report-q3-2017.pdf)
+
+[Proofpoint Threat Report Q4 2017](reports/proofpoint/threat-report/proofpoint-threat-report-q4-2017.pdf)
+
+[Proofpoint Threat Report Q1 2018](reports/proofpoint/threat-report/proofpoint-threat-report-q1-2018.pdf)
+
+[Proofpoint Threat Report Q2 2018](reports/proofpoint/threat-report/proofpoint-threat-report-q2-2018.pdf)
+
+[Proofpoint Threat Report Q3 2018](reports/proofpoint/threat-report/proofpoint-threat-report-q3-2018.pdf)
+
+[Proofpoint Threat Report Q4 2018](reports/proofpoint/threat-report/proofpoint-threat-report-q4-2018.pdf)
+
+[Proofpoint Threat Report Q1 2019](reports/proofpoint/threat-report/proofpoint-threat-report-q1-2019.pdf)
+
+---
+
+### Email & Domain Fraud
+
+[Proofpoint Email Fraud Report 2017](reports/proofpoint/email-fraud/proofpoint-email-fraud-report-2017.pdf)
+
+[Proofpoint Domain Fraud Report 2019](reports/proofpoint/domain-fraud/proofpoint-domain-fraud-report-2019.pdf)
 
 ---
 
