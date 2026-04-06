@@ -99,19 +99,25 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 ## ENISA
 
-*ENISA (European Union Agency for Cybersecurity) publishes an annual Threat Landscape report each autumn.*
+*ENISA (European Union Agency for Cybersecurity) publishes an annual Threat Landscape report each autumn. The 2020 edition was released as 22 separate sub-reports with no consolidated PDF; the Main Incidents overview is linked below.*
 
-[ENISA 2016 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2016/at_download/fullReport)
+[ENISA 2016 Threat Landscape](reports/enisa/enisa-threat-landscape-2016.pdf)
 
-[ENISA 2017 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2017/at_download/fullReport)
+[ENISA 2017 Threat Landscape](reports/enisa/enisa-threat-landscape-2017.pdf)
 
-[ENISA 2018 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018/at_download/fullReport)
+[ENISA 2018 Threat Landscape](reports/enisa/enisa-threat-landscape-2018.pdf)
 
-[ENISA 2022 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Threat%20Landscape%202022.pdf)
+[ENISA 2020 Threat Landscape — Main Incidents](reports/enisa/enisa-threat-landscape-2020-main-incidents.pdf)
 
-[ENISA 2023 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Threat%20Landscape%202023.pdf)
+[ENISA 2021 Threat Landscape](reports/enisa/enisa-threat-landscape-2021.pdf)
 
-[ENISA 2024 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/2024-11/ENISA%20Threat%20Landscape%202024_0.pdf)
+[ENISA 2022 Threat Landscape](reports/enisa/enisa-threat-landscape-2022.pdf)
+
+[ENISA 2023 Threat Landscape](reports/enisa/enisa-threat-landscape-2023.pdf)
+
+[ENISA 2024 Threat Landscape](reports/enisa/enisa-threat-landscape-2024.pdf)
+
+[ENISA 2025 Threat Landscape](reports/enisa/enisa-threat-landscape-2025.pdf)
 
 ---
 
