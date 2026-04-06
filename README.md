@@ -1,28 +1,33 @@
-# Catalogue of Historical Infosec Reports/Articles
-*Note: These are publicly available reports which links to their respective authors. You may need to sign up to access them.**
+# Catalogue of Infosec Reports
 
-- [**Table of Contents**](#catalogue-of-historical-infosec-reports-articles)
+A running list of publicly available cybersecurity reports, threat intelligence publications, and annual reviews — going back as far as I could find them. Links go directly to PDFs where possible. Some vendors require a free registration to download.
+
+*Pull requests with new or updated links welcome.*
+
+- [**Table of Contents**](#catalogue-of-infosec-reports)
     + [Carbon Black](#carbon-black)
-    + [Cisco](#cisco)
-    + [Crowdstrike](#crowdstrike)
+    + [Cisco / Cisco Talos](#cisco--cisco-talos)
+    + [CrowdStrike](#crowdstrike)
     + [Cylance](#cylance)
-    + [Duo](#duo)
+    + [Duo (Cisco)](#duo-cisco)
     + [ENISA](#enisa)
     + [FFIEC](#ffiec)
-    + [FireEye](#fireeye)
+    + [FireEye / Mandiant](#fireeye--mandiant)
     + [FISMA](#fisma)
     + [Google](#google)
+    + [IBM X-Force](#ibm-x-force)
     + [ITU](#itu)
     + [Microsoft](#microsoft)
     + [NIST](#nist)
-    + [NTT](#ntt)
+    + [NTT Security](#ntt-security)
+    + [Proofpoint](#proofpoint)
     + [SANS](#sans)
+    + [Sophos](#sophos)
     + [Verizon](#verizon)
-    + [Wombat/Proofpoint](#wombat-proofpoint)
 
-## InfoSec Reports
+---
 
-### Carbon Black
+## Carbon Black
 
 [Carbon Black 2017 Global Threat Report](https://dsimg.ubm-us.net/envelope/394083/544343/Carbon_Black_2017_Threat_Report-3.pdf)
 
@@ -30,7 +35,11 @@
 
 [Carbon Black 2019 Global Threat Report](https://cdn.www.carbonblack.com/wp-content/uploads/2019/01/carbon-black-global-threat-report-year-of-the-next-gen-cyberattack-012419.pdf)
 
-### Cisco
+---
+
+## Cisco / Cisco Talos
+
+*Cisco published annual cybersecurity reports through 2018. Since then, Cisco Talos has published a Year in Review covering each calendar year.*
 
 [Cisco 2014 Annual Cybersecurity Report](https://www.cisco.com/c/dam/assets/global/UK/pdfs/executive_security/sc-01_casr2014_cte_liq_en.pdf)
 
@@ -42,30 +51,41 @@
 
 [Cisco 2018 Annual Cybersecurity Report](https://www.cisco.com/c/dam/m/hu_hu/campaigns/security-hub/pdf/acr-2018.pdf)
 
-### Crowdstrike
+[Cisco Talos 2023 Year in Review](https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf)
 
-[Crowdstrike 2018 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf)
+[Cisco Talos 2024 Year in Review](https://blog.talosintelligence.com/content/files/2025/03/2024YiR-report.pdf)
 
-[Crowdstrike 2019 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2019GlobalThreatReport.pdf)
+---
 
-[Crowdstrike 2022 Global Threat Report](https://irp.cdn-website.com/5d9b1ea1/files/uploaded/Report2022GTR.pdf)
+## CrowdStrike
 
-[Crowdstrike 2023 Global Threat Report](https://www.crowdstrike.com/wp-content/uploads/2023/05/CrowdStrike2023GlobalThreatReport.pdf)
+[CrowdStrike 2018 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf)
 
-[Crowdstrike 2023 Global Threat Report - Executive Summary](https://www.crowdstrike.com/wp-content/uploads/2023/02/2023-Global-Threat-Report-Executive-Summary.pdf)
+[CrowdStrike 2019 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2019GlobalThreatReport.pdf)
 
-[Crowdstrike 2024 Global Threat Report](https://cyberpeople.tech/reports/GlobalThreatReport2024.pdf) 
+[CrowdStrike 2020 Global Threat Report](https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf)
 
-[Crowdstrike 2025 Global Threat Report](https://www.securityweek.com/wp-content/uploads/2025/02/CrowdStrikeGlobalThreatReport2025.pdf)
+[CrowdStrike 2022 Global Threat Report](https://irp.cdn-website.com/5d9b1ea1/files/uploaded/Report2022GTR.pdf)
 
+[CrowdStrike 2023 Global Threat Report](https://www.crowdstrike.com/wp-content/uploads/2023/05/CrowdStrike2023GlobalThreatReport.pdf)
 
-### Cylance
+[CrowdStrike 2023 Global Threat Report — Executive Summary](https://www.crowdstrike.com/wp-content/uploads/2023/02/2023-Global-Threat-Report-Executive-Summary.pdf)
+
+[CrowdStrike 2024 Global Threat Report](https://cyberpeople.tech/reports/GlobalThreatReport2024.pdf)
+
+[CrowdStrike 2025 Global Threat Report](https://www.securityweek.com/wp-content/uploads/2025/02/CrowdStrikeGlobalThreatReport2025.pdf)
+
+---
+
+## Cylance
 
 [Cylance 2017 Threat Report](https://www.cylance.com/content/dam/cylance/pdfs/reports/CylanceThreatReport2017.pdf)
 
 [Cylance 2019 Threat Report](https://www.cylance.com/content/dam/cylance-web/en-us/resources/knowledge-center/resource-library/reports/Cylance-2019-Threat-Report.pdf)
 
-### Duo
+---
+
+## Duo (Cisco)
 
 [Duo 2016 Trusted Access Report](https://go.duo.com/rs/074-UQX-410/images/duo-trusted-access-report.pdf)
 
@@ -75,15 +95,27 @@
 
 [Duo 2019 Trusted Access Report](https://duo.com/assets/ebooks/the-2019-duo-trusted-access-report.pdf)
 
-### ENISA
+---
 
-[ENISA 2018 Threat Landscape Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018/at_download/fullReport)
+## ENISA
 
-[ENISA 2016 Threat Landscape Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2016/at_download/fullReport)
+*ENISA (European Union Agency for Cybersecurity) publishes an annual Threat Landscape report each autumn.*
 
-[ENISA 2017 Threat Landscape Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2017/at_download/fullReport)
+[ENISA 2016 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2016/at_download/fullReport)
 
-### FFIEC
+[ENISA 2017 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2017/at_download/fullReport)
+
+[ENISA 2018 Threat Landscape](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018/at_download/fullReport)
+
+[ENISA 2022 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Threat%20Landscape%202022.pdf)
+
+[ENISA 2023 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Threat%20Landscape%202023.pdf)
+
+[ENISA 2024 Threat Landscape](https://www.enisa.europa.eu/sites/default/files/2024-11/ENISA%20Threat%20Landscape%202024_0.pdf)
+
+---
+
+## FFIEC
 
 [FFIEC FOIA 2014 Annual Report](https://www.ffiec.gov/foia/FOIA_AnnualReport2014.pdf)
 
@@ -117,8 +149,11 @@
 
 [FFIEC 2024 Annual Report](https://www.ffiec.gov/sites/default/files/data/publications/annrpt24.pdf)
 
+---
 
-### FireEye
+## FireEye / Mandiant
+
+*FireEye published M-Trends through 2019. After the 2021 divestiture, Mandiant continued the series independently before being acquired by Google in 2022. The report now publishes as Mandiant M-Trends under Google Cloud.*
 
 [FireEye 2014 M-Trends Report](https://www2.fireeye.com/rs/848-DID-242/images/fireeye-m-trends-report-2014.pdf)
 
@@ -134,79 +169,117 @@
 
 [FireEye Advanced Threat Report: 2H 2011](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-firefye-advanced-threat-report-2H2011.pdf)
 
-[FireEye: APT41 Double Dragon: A dual espionage andcyber crime operation](https://www.fireeye.com/content/dam/collateral/en/rpt-apt41-2019.pdf)
+[FireEye: APT41 — A Dual Espionage and Cybercrime Operation](https://www.fireeye.com/content/dam/collateral/en/rpt-apt41-2019.pdf)
 
-[FireEye: THE ROAD AHEAD: CYBER SECURITY IN 2020 AND BEYOND](https://www.fireeye.com/content/dam/collateral/en/rpt-security-predictions-2020.pdf)
+[FireEye: The Road Ahead — Cyber Security in 2020 and Beyond](https://www.fireeye.com/content/dam/collateral/en/rpt-security-predictions-2020.pdf)
 
-[Mandiant: APT Exposing One of China’s Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
+[Mandiant: APT1 — Exposing One of China's Cyber Espionage Units](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf)
 
-### FISMA
+[Mandiant M-Trends 2023](https://services.google.com/fh/files/misc/m_trends_2023_report.pdf)
 
-[FISMA 2014-2015 Annual Report to Congress on OMB and the Cybersecurity and Infrastructure Security Agency](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/final_fy14_fisma_report_02_27_2015.pdf)
+[Mandiant M-Trends 2024](https://services.google.com/fh/files/misc/m-trends-2024.pdf)
 
-[FISMA 2015 Annual Report to Congress on OMB and the Cybersecurity and Infrastructure Security Agency](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/final_fy_2015_fisma_report_to_congress_03_18_2016.pdf)
+[Mandiant M-Trends 2025](https://services.google.com/fh/files/misc/m-trends-2025-en.pdf)
 
-[FISMA 2016 Annual Report to Congress on OMB and the Cybersecurity and Infrastructure Security Agency](https://www.whitehouse.gov/sites/whitehouse.gov/files/briefing-room/presidential-actions/related-omb-material/fy_2016_fisma_report%20to_congress_official_release_march_10_2017.pdf)
+---
 
-[FISMA 2017 Annual Report to Congress on OMB and the Cybersecurity and Infrastructure Security Agency](https://www.whitehouse.gov/wp-content/uploads/2017/11/FY2017FISMAReportCongress.pdf)
+## FISMA
 
-[FISMA 2018 Annual Report to Congress on OMB and the Cybersecurity and Infrastructure Security Agency](https://www.whitehouse.gov/wp-content/uploads/2019/08/FISMA-2018-Report-FINAL-to-post.pdf)
+[FISMA 2014–2015 Annual Report to Congress](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/final_fy14_fisma_report_02_27_2015.pdf)
 
-### Google
+[FISMA 2015 Annual Report to Congress](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/final_fy_2015_fisma_report_to_congress_03_18_2016.pdf)
 
-[Google Transparency: Android ecosystem security](https://transparencyreport.google.com/android-security/overview)
+[FISMA 2016 Annual Report to Congress](https://www.whitehouse.gov/sites/whitehouse.gov/files/briefing-room/presidential-actions/related-omb-material/fy_2016_fisma_report%20to_congress_official_release_march_10_2017.pdf)
 
-[Google Transparency: HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
+[FISMA 2017 Annual Report to Congress](https://www.whitehouse.gov/wp-content/uploads/2017/11/FY2017FISMAReportCongress.pdf)
 
-[Google Transparency: Email encryption in transit](https://transparencyreport.google.com/safer-email/overview)
+[FISMA 2018 Annual Report to Congress](https://www.whitehouse.gov/wp-content/uploads/2019/08/FISMA-2018-Report-FINAL-to-post.pdf)
 
-[Google Transparency: Safe Browsing: malware and phishing](https://transparencyreport.google.com/safe-browsing/overview)
+---
 
-### ITU
+## Google
 
-[ITU Global Cybersecurity Index (GCI) 2018](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf)
+[Google Transparency: Android Ecosystem Security](https://transparencyreport.google.com/android-security/overview)
 
-[ITU Global Cybersecurity Index (GCI) 2017](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-PDF-E.pdf)
+[Google Transparency: HTTPS Encryption on the Web](https://transparencyreport.google.com/https/overview)
 
-### Microsoft
+[Google Transparency: Email Encryption in Transit](https://transparencyreport.google.com/safer-email/overview)
 
-[Microsoft Security Volume 10: July - December 2010](https://go.microsoft.com/fwlink/p/?linkid=2036302)
+[Google Transparency: Safe Browsing — Malware and Phishing](https://transparencyreport.google.com/safe-browsing/overview)
 
-[Microsoft Security Volume 11: January - June 2011](https://go.microsoft.com/fwlink/p/?linkid=2036161)
+---
 
-[Microsoft Security Volume 12: July - December 2011](https://go.microsoft.com/fwlink/p/?linkid=2036296)
+## IBM X-Force
 
-[Microsoft Security Volume 13: January - June 2012](https://go.microsoft.com/fwlink/?linkid=2036150)
+[IBM 2019 X-Force Threat Intelligence Index](https://www.securindex.com/downloads/8b9f94c46a70c60b229b04609c07acff.pdf)
 
-[Microsoft Security Volume 14: July - December 2012](https://go.microsoft.com/fwlink/p/?linkid=2036147)
+[IBM X-Force 2024 Threat Intelligence Index](https://www.ibm.com/downloads/cas/JVPZ9NB6)
 
-[Microsoft Security Volume 15: January - June 2013](https://go.microsoft.com/fwlink/p/?linkid=2036144)
+[IBM X-Force 2025 Threat Intelligence Index](https://www.ibm.com/reports/threat-intelligence) *(registration required)*
 
-[Microsoft Security Volume 16: July – December 2013](https://go.microsoft.com/fwlink/p/?linkid=2036139)
+---
 
-[Microsoft Security Volume 17: January - June 2014](https://go.microsoft.com/fwlink/p?linkid=2036137)
+## ITU
 
-[Microsoft Security Volume 18: July - December 2014](https://go.microsoft.com/fwlink/p/?linkid=2036260)
+[ITU Global Cybersecurity Index 2017](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-PDF-E.pdf)
 
-[Microsoft Security Volume 19: January - June 2015](https://go.microsoft.com/fwlink/p/?linkid=2036257)
+[ITU Global Cybersecurity Index 2018](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf)
 
-[Microsoft Security Volume 20: July - December 2015](https://go.microsoft.com/fwlink/p/?linkid=2036113)
+---
 
-[Microsoft Security Volume 21: January - June 2016](https://go.microsoft.com/fwlink/p/?linkid=2036108)
+## Microsoft
 
-[Microsoft Security Volume 22: January - March 2017](https://go.microsoft.com/fwlink/p/?linkid=2036244)
+*Microsoft published Security Intelligence Reports (SIR) through 2018. These were replaced by the annual Microsoft Digital Defense Report (MDDR) starting in 2020.*
 
-[Microsoft Security Volume 23: February – December 2017](https://go.microsoft.com/fwlink/p/?linkid=2073690)
+[Microsoft Security Intelligence Report Volume 10 (Jul–Dec 2010)](https://go.microsoft.com/fwlink/p/?linkid=2036302)
 
-[Microsoft Security Volume 24: January - December 2018](https://info.microsoft.com/rs/157-GQE-382/images/SIR%20Report%20v24.pdf)
+[Microsoft Security Intelligence Report Volume 11 (Jan–Jun 2011)](https://go.microsoft.com/fwlink/p/?linkid=2036161)
 
-### NIST
+[Microsoft Security Intelligence Report Volume 12 (Jul–Dec 2011)](https://go.microsoft.com/fwlink/p/?linkid=2036296)
+
+[Microsoft Security Intelligence Report Volume 13 (Jan–Jun 2012)](https://go.microsoft.com/fwlink/?linkid=2036150)
+
+[Microsoft Security Intelligence Report Volume 14 (Jul–Dec 2012)](https://go.microsoft.com/fwlink/p/?linkid=2036147)
+
+[Microsoft Security Intelligence Report Volume 15 (Jan–Jun 2013)](https://go.microsoft.com/fwlink/p/?linkid=2036144)
+
+[Microsoft Security Intelligence Report Volume 16 (Jul–Dec 2013)](https://go.microsoft.com/fwlink/p/?linkid=2036139)
+
+[Microsoft Security Intelligence Report Volume 17 (Jan–Jun 2014)](https://go.microsoft.com/fwlink/p?linkid=2036137)
+
+[Microsoft Security Intelligence Report Volume 18 (Jul–Dec 2014)](https://go.microsoft.com/fwlink/p/?linkid=2036260)
+
+[Microsoft Security Intelligence Report Volume 19 (Jan–Jun 2015)](https://go.microsoft.com/fwlink/p/?linkid=2036257)
+
+[Microsoft Security Intelligence Report Volume 20 (Jul–Dec 2015)](https://go.microsoft.com/fwlink/p/?linkid=2036113)
+
+[Microsoft Security Intelligence Report Volume 21 (Jan–Jun 2016)](https://go.microsoft.com/fwlink/p/?linkid=2036108)
+
+[Microsoft Security Intelligence Report Volume 22 (Jan–Mar 2017)](https://go.microsoft.com/fwlink/p/?linkid=2036244)
+
+[Microsoft Security Intelligence Report Volume 23 (Feb–Dec 2017)](https://go.microsoft.com/fwlink/p/?linkid=2073690)
+
+[Microsoft Security Intelligence Report Volume 24 (Jan–Dec 2018)](https://info.microsoft.com/rs/157-GQE-382/images/SIR%20Report%20v24.pdf)
+
+[Microsoft Digital Defense Report 2021](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2021)
+
+[Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv)
+
+[Microsoft Digital Defense Report 2023](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MDDR_FINAL_2023_1004.pdf)
+
+[Microsoft Digital Defense Report 2024](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft%20Digital%20Defense%20Report%202024%20%281%29.pdf)
+
+---
+
+## NIST
 
 [NIST/ITL 2016 Cybersecurity Program Annual Report](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-195.pdf)
 
 [NIST/ITL 2017 Cybersecurity Program Annual Report](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-203.pdf)
 
-### NTT
+---
+
+## NTT Security
 
 [NTT 2016 Global Threat Intelligence Report](https://compsecdirect.com/wp-content/uploads/2016/10/NTT-Group-Global-Threat-Intel-Report.pdf)
 
@@ -214,63 +287,17 @@
 
 [NTT 2018 Global Threat Intelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/gbl-ntt-security-2018-gtir-summary-uea.pdf?sfvrsn=e8c7f625_4)
 
-[NTT 2019 Global Threat Ingelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/2019-gtir/2019_gtir_report_2019_uea_v2.pdf)
+[NTT 2019 Global Threat Intelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/2019-gtir/2019_gtir_report_2019_uea_v2.pdf)
 
-### SANS
+---
 
-[SANS 2016 Security Awareness Report](https://www.sans.org/sites/default/files/2017-12/STH-SecurityAwarenessReport-2016.pdf)
+## Proofpoint
 
-[SANS 2017 Security Awareness Report](https://www.sans.org/sites/default/files/2017-12/STH-SecurityAwarenessReport-2017.pdf)
-
-[SANS 2018 Security Awareness Report](https://www.sans.org/sites/default/files/2018-05/2018%20SANS%20Security%20Awareness%20Report.pdf)
-
-[SANS 2019 Security Awareness Report](https://www.knowbe4.com/hubfs/SANS-Security-Awareness-Report-2019.pdf)
-
-[SANS 2019 Security Awareness Report Package](https://www.sans.org/sites/default/files/2019-07/2019%20SANS%20Security%20Awareness%20Report%20and%20Materials.zip)
-
-### Verizon
-
-[Verizon 2009 DBIR Report](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/2009_databreach_rp.pdf)
-
-[Verizon 2010 DBIR Report](https://www.wired.com/images_blogs/threatlevel/2010/07/2010-Verizon-Data-Breach-Investigations-Report.pdf)
-
-[Verizon 2011 DBIR Report](https://www.wired.com/images_blogs/threatlevel/2011/04/Verizon-2011-DBIR_04-13-11.pdf)
-
-[Verizon 2012 DBIR Report](https://www.wired.com/images_blogs/threatlevel/2012/03/Verizon-Data-Breach-Report-2012.pdf)
-
-[Verizon 2013 DBIR Report](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigations-report-2013.pdf)
-
-[Verizon 2014 DBIR Report](https://webfiles.dti.delaware.gov/pdfs/rp_Verizon-DBIR-2014_en_xg.pdf)
-
-[Verizon 2015 DBIR Report](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigation-report_2015.pdf)
-
-[Verizon 2016 DBIR Report](https://enterprise.verizon.com/resources/reports/DBIR_2016_Report.pdf)
-
-[Verizon 2017 DBIR Report](https://www.ictsecuritymagazine.com/wp-content/uploads/2017-Data-Breach-Investigations-Report.pdf)
-
-[Verizon 2018 DBIR Report](https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf)
-
-[Verizon 2019 DBIR Report](https://www.key4biz.it/wp-content/uploads/2019/05/2019-data-breach-investigations-report.pdf)
-
-[Verizon 2020 DBIR Report](https://www.verizon.com/business/en-gb/resources/reports/2020-data-breach-investigations-report.pdf)
-
-[Verizon 2021 DBIR Report - Executive Summary](https://www.verizon.com/business/resources/T261/reports/2021-dbir-executive-brief.pdf)
-
-[Verizon 2022 DBIR Report](https://complexdiscovery.com/wp-content/uploads/2022/06/2022-Data-Breach-Investigations-Report-DBIR.pdf)
-
-[Verizon 2023 DBIR Report](https://www.verizon.com/business/resources/Tbd7/reports/2023-data-breach-investigations-report-dbir.pdf)
-
-[Verizon 2024 DBIR Report](https://www.verizon.com/business/resources/T387/reports/2024-dbir-data-breach-investigations-report.pdf)
-
-
-
-### Wombat-Proofpoint
-
-[Proofpoint 2015 Human Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/pp-human-factor-2015_0.pdf)
+[Proofpoint 2015 Human Factor Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/pp-human-factor-2015_0.pdf)
 
 [Proofpoint 2015 Threat Report](https://www.proofpoint.com/sites/default/files/documents/bnt_download/proofpoint-threat-report-june-2015.pdf)
 
-[Proofpoint 2016 Human Threat Report](https://www.proofpoint.com/sites/default/files/human-factor-report-2016.pdf)
+[Proofpoint 2016 Human Factor Report](https://www.proofpoint.com/sites/default/files/human-factor-report-2016.pdf)
 
 [Proofpoint 2017 Email Fraud Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-email-fraud-yir-180212.pdf)
 
@@ -300,16 +327,72 @@
 
 [Proofpoint Q4 2018 Threat Report](https://www.proofpoint.com/sites/default/files/pfpt-us-tr-q418-quarterly-threat-report.pdf)
 
-[Wombat/Proofpoint 2016 State of the Phish](https://www.afsoftware.fr/susi/download/doc_susi/AFS%20-%20Wombat%20State%20of%20Phishing%202016.pdf)
+[Proofpoint 2016 State of the Phish](https://www.afsoftware.fr/susi/download/doc_susi/AFS%20-%20Wombat%20State%20of%20Phishing%202016.pdf)
 
-[Wombat/Proofpoint 2017 State of the Phish](http://resources.idgenterprise.com/original/AST-0176569_Wombat-StateofPhish2017.pdf)
+[Proofpoint 2017 State of the Phish](http://resources.idgenterprise.com/original/AST-0176569_Wombat-StateofPhish2017.pdf)
 
-[Wombat/Proofpoint 2018 State of the Phish](https://info.wombatsecurity.com/hubfs/2018%20State%20of%20the%20Phish/Wombat-StateofPhish2018.pdf)
+[Proofpoint 2018 State of the Phish](https://info.wombatsecurity.com/hubfs/2018%20State%20of%20the%20Phish/Wombat-StateofPhish2018.pdf)
 
-[Wombat/Proofpoint 2019 State of the Phish](https://info.wombatsecurity.com/hubfs/Wombat_Proofpoint_2019%20State%20of%20the%20Phish%20Report_Final.pdf)
+[Proofpoint 2019 State of the Phish](https://info.wombatsecurity.com/hubfs/Wombat_Proofpoint_2019%20State%20of%20the%20Phish%20Report_Final.pdf)
 
-## Additional
+[Proofpoint 2024 State of the Phish](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-state-of-the-phish-2024.pdf)
 
-[IBM 2019 X-Force Threat Intelligence](https://www.securindex.com/downloads/8b9f94c46a70c60b229b04609c07acff.pdf)
+---
+
+## SANS
+
+[SANS 2016 Security Awareness Report](https://www.sans.org/sites/default/files/2017-12/STH-SecurityAwarenessReport-2016.pdf)
+
+[SANS 2017 Security Awareness Report](https://www.sans.org/sites/default/files/2017-12/STH-SecurityAwarenessReport-2017.pdf)
+
+[SANS 2018 Security Awareness Report](https://www.sans.org/sites/default/files/2018-05/2018%20SANS%20Security%20Awareness%20Report.pdf)
+
+[SANS 2019 Security Awareness Report](https://www.knowbe4.com/hubfs/SANS-Security-Awareness-Report-2019.pdf)
+
+---
+
+## Sophos
 
 [Sophos 2019 Threat Report](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-2019-threat-report.pdf)
+
+[Sophos 2020 Threat Report](https://www.sophos.com/en-us/medialibrary/pdfs/technical-papers/sophoslabs-uncut-2020-threat-report.pdf)
+
+---
+
+## Verizon
+
+*The Verizon Data Breach Investigations Report (DBIR) is one of the most widely-cited annual reports in the industry.*
+
+[Verizon 2009 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/2009_databreach_rp.pdf)
+
+[Verizon 2010 DBIR](https://www.wired.com/images_blogs/threatlevel/2010/07/2010-Verizon-Data-Breach-Investigations-Report.pdf)
+
+[Verizon 2011 DBIR](https://www.wired.com/images_blogs/threatlevel/2011/04/Verizon-2011-DBIR_04-13-11.pdf)
+
+[Verizon 2012 DBIR](https://www.wired.com/images_blogs/threatlevel/2012/03/Verizon-Data-Breach-Report-2012.pdf)
+
+[Verizon 2013 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigations-report-2013.pdf)
+
+[Verizon 2014 DBIR](https://webfiles.dti.delaware.gov/pdfs/rp_Verizon-DBIR-2014_en_xg.pdf)
+
+[Verizon 2015 DBIR](https://cybersecurity.idaho.gov/wp-content/uploads/sites/87/2019/04/data-breach-investigation-report_2015.pdf)
+
+[Verizon 2016 DBIR](https://enterprise.verizon.com/resources/reports/DBIR_2016_Report.pdf)
+
+[Verizon 2017 DBIR](https://www.ictsecuritymagazine.com/wp-content/uploads/2017-Data-Breach-Investigations-Report.pdf)
+
+[Verizon 2018 DBIR](https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf)
+
+[Verizon 2019 DBIR](https://www.key4biz.it/wp-content/uploads/2019/05/2019-data-breach-investigations-report.pdf)
+
+[Verizon 2020 DBIR](https://www.verizon.com/business/en-gb/resources/reports/2020-data-breach-investigations-report.pdf)
+
+[Verizon 2021 DBIR — Executive Summary](https://www.verizon.com/business/resources/T261/reports/2021-dbir-executive-brief.pdf)
+
+[Verizon 2022 DBIR](https://complexdiscovery.com/wp-content/uploads/2022/06/2022-Data-Breach-Investigations-Report-DBIR.pdf)
+
+[Verizon 2023 DBIR](https://www.verizon.com/business/resources/Tbd7/reports/2023-data-breach-investigations-report-dbir.pdf)
+
+[Verizon 2024 DBIR](https://www.verizon.com/business/resources/T387/reports/2024-dbir-data-breach-investigations-report.pdf)
+
+[Verizon 2025 DBIR](https://www.verizon.com/business/resources/T4c3/reports/2025-dbir-data-breach-investigations-report.pdf)
