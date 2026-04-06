@@ -353,11 +353,11 @@ Annual phishing awareness and end-user behavior report. Published as "Wombat Sta
 
 [Proofpoint State of the Phish 2016](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2016.pdf)
 
-[Proofpoint State of the Phish 2017](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
+[Proofpoint State of the Phish 2017](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2017.pdf)
 
-[Proofpoint State of the Phish 2018](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
+[Proofpoint State of the Phish 2018](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2018.pdf)
 
-[Proofpoint State of the Phish 2019](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish) *(registration required)*
+[Proofpoint State of the Phish 2019](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2019.pdf)
 
 [Proofpoint State of the Phish 2020](reports/proofpoint/state-of-the-phish/proofpoint-state-of-the-phish-2020.pdf)
 
