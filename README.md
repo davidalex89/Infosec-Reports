@@ -273,9 +273,31 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 ## NIST
 
-[NIST/ITL 2016 Cybersecurity Program Annual Report](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-195.pdf)
+NIST/ITL Cybersecurity (and Privacy) Program Annual Reports — published by NIST's Information Technology Laboratory.
 
-[NIST/ITL 2017 Cybersecurity Program Annual Report](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-203.pdf)
+[NIST/ITL 2013 Annual Report](reports/nist-itl/nist-itl-annual-report-2013.pdf) (SP 800-170)
+
+[NIST/ITL 2014 Annual Report](reports/nist-itl/nist-itl-annual-report-2014.pdf) (SP 800-176)
+
+[NIST/ITL 2015 Annual Report](reports/nist-itl/nist-itl-annual-report-2015.pdf) (SP 800-182)
+
+[NIST/ITL 2016 Annual Report](reports/nist-itl/nist-itl-annual-report-2016.pdf) (SP 800-195)
+
+[NIST/ITL 2017 Annual Report](reports/nist-itl/nist-itl-annual-report-2017.pdf) (SP 800-203)
+
+[NIST/ITL 2018 Annual Report](reports/nist-itl/nist-itl-annual-report-2018.pdf) (SP 800-206)
+
+[NIST/ITL 2019 Annual Report](reports/nist-itl/nist-itl-annual-report-2019.pdf) (SP 800-211)
+
+[NIST/ITL 2020 Annual Report](reports/nist-itl/nist-itl-annual-report-2020.pdf) (SP 800-214)
+
+[NIST/ITL 2021 Annual Report](reports/nist-itl/nist-itl-annual-report-2021.pdf) (SP 800-220)
+
+[NIST/ITL 2022 Annual Report](reports/nist-itl/nist-itl-annual-report-2022.pdf) (SP 800-225)
+
+[NIST/ITL 2023 Annual Report](reports/nist-itl/nist-itl-annual-report-2023.pdf) (SP 800-229)
+
+[NIST/ITL 2024 Annual Report](reports/nist-itl/nist-itl-annual-report-2024.pdf) (SP 800-236)
 
 ---
 
