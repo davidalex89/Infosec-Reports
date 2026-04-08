@@ -95,6 +95,15 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 [Duo 2019 Trusted Access Report](https://duo.com/assets/ebooks/the-2019-duo-trusted-access-report.pdf)
 
+[Duo 2020 Trusted Access Report](https://www.brighttalk.com/resource/core/326288/the-2020-duo-trusted-access-report_717465.pdf)
+
+[Duo 2021 Trusted Access Report](https://duo.com/assets/ebooks/the-2021-duo-trusted-access-report.pdf)
+
+[Duo 2022 Trusted Access Report](https://duo.com/assets/ebooks/the-2022-duo-trusted-access-report.pdf)
+
+[Duo 2024 Trusted Access Report](https://resources.duo.com/explore/assets/2024-duo-trusted-access-report)
+
+
 ---
 
 ## ENISA
@@ -267,6 +276,8 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 
 [Microsoft Security Intelligence Report Volume 24 (Jan–Dec 2018)](https://info.microsoft.com/rs/157-GQE-382/images/SIR%20Report%20v24.pdf)
 
+[Microsoft Digital Defense Report 2020](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Digital-Defense-Report-2020-September.pdf?culture=en-us&country=US)
+
 [Microsoft Digital Defense Report 2021](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2021)
 
 [Microsoft Digital Defense Report 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv)
@@ -274,6 +285,8 @@ A running list of publicly available cybersecurity reports, threat intelligence 
 [Microsoft Digital Defense Report 2023](https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MDDR_FINAL_2023_1004.pdf)
 
 [Microsoft Digital Defense Report 2024](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft%20Digital%20Defense%20Report%202024%20%281%29.pdf)
+
+[Microsoft Digital Defense Report 2024](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Microsoft-Digital-Defense-Report-2025.pdf)
 
 ---
 
@@ -316,6 +329,18 @@ NIST/ITL Cybersecurity (and Privacy) Program Annual Reports — published by NIS
 [NTT 2018 Global Threat Intelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/gbl-ntt-security-2018-gtir-summary-uea.pdf?sfvrsn=e8c7f625_4)
 
 [NTT 2019 Global Threat Intelligence Report](https://www.nttsecurity.com/docs/librariesprovider3/resources/2019-gtir/2019_gtir_report_2019_uea_v2.pdf)
+
+[NTT 2020 Global Threat Intelligence Report](https://us.nttdata.com/en/-/media/assets/reports/2020-global-threat-intelligence-report-full-technical-report.pdf)
+
+[NTT 2021 Global Threat Intelligence Report](https://us.nttdata.com/en/-/media/nttdataamerica/files/gated-asset/2021-global-threat-intelligence-report-full-report.pdf)
+
+[NTT 2022 Global Threat Intelligence Report](https://www.security.ntt/pdf/2022-global-threat-intelligence-report-v8.pdf)
+
+[NTT 2023 Global Threat Intelligence Report](https://us.nttdata.com/en/-/media/nttdataamerica/files/gated-asset/2023-nttsh-gtir-cybersecurity-report.pdf)
+
+[NTT 2024 Global Threat Intelligence Report](https://us.nttdata.com/en/-/media/nttdataamerica/files/gated-asset/2024-global-threat-intelligence-report-5416735719.pdf)
+
+[NTT 2024 Global Threat Intelligence Report](https://go.cyberproof.com/hubfs/CyberProof_2025_Global_Threat_Intelligence_Report.pdf)
 
 ---
 
