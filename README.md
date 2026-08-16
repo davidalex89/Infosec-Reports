@@ -493,3 +493,5 @@ Annual phishing awareness and end-user behavior report. Published as "Wombat Sta
 [Verizon 2024 DBIR](reports/dbir/2024-dbir-data-breach-investigations-report.pdf)
 
 [Verizon 2025 DBIR](reports/dbir/2025-dbir-data-breach-investigations-report.pdf)
+
+[Verizon 2025 DBIR](https://www.verizon.com/business/resources/T158/reports/2026-dbir-data-breach-investigations-report.pdf)
